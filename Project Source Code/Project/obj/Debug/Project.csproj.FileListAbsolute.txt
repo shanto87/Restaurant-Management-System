@@ -1,0 +1,142 @@
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Restaurant Management System\Project\Project\bin\Debug\Project.exe.config
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Restaurant Management System\Project\Project\bin\Debug\Project.exe
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Restaurant Management System\Project\Project\bin\Debug\Project.pdb
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Restaurant Management System\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Restaurant Management System\Project\Project\obj\Debug\Project.Login_form.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Restaurant Management System\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Restaurant Management System\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Restaurant Management System\Project\Project\obj\Debug\Project.exe
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Restaurant Management System\Project\Project\obj\Debug\Project.pdb
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Restaurant Management System\Project\Project\obj\Debug\Project.Management_Page.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\bin\Debug\Project.exe.config
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.exe
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.pdb
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\bin\Debug\Project.exe
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\bin\Debug\Project.pdb
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.Login_form.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.Management_Page.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\bin\Debug\Project.exe.manifest
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\bin\Debug\Project.application
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.exe.manifest
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.application
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.Food.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.Drinks.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.POS.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.ChangePassword.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.loading.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.EmployeeInfo.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\bin\Debug\MySql.Data.dll
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\bin\Debug\Google.Protobuf.dll
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\bin\Debug\MySql.Data.xml
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.Data_View.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.DataSearch.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.FoodSearch.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project\Project\obj\Debug\Project.DrinksSearch.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.exe.config
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.exe
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.pdb
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.exe.manifest
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.application
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.exe
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.pdb
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\MySql.Data.dll
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Google.Protobuf.dll
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\MySql.Data.xml
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.ChangePassword.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Data_View.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.DataSearch.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Drinks.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.DrinksSearch.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.EmployeeInfo.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Food.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.FoodSearch.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.loading.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Login_form.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Management_Page.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.POS.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Properties.Resources.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.exe.manifest
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.application
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.exe.config
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.exe
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.pdb
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.ChangePassword.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Data_View.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.DataSearch.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Drinks.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.DrinksSearch.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.EmployeeInfo.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Food.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.FoodSearch.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.loading.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Login_form.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Management_Page.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.POS.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Properties.Resources.resources
+G:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.exe.config
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.exe
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.pdb
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.exe.manifest
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.application
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.exe
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.pdb
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\MySql.Data.dll
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Google.Protobuf.dll
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\MySql.Data.xml
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.ChangePassword.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Data_View.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.DataSearch.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Drinks.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.DrinksSearch.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.EmployeeInfo.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Food.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.FoodSearch.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.loading.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Login_form.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Management_Page.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.POS.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.exe.manifest
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.application
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\bin\Debug\Project.exe.config
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.exe
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.pdb
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.ChangePassword.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Data_View.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.DataSearch.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Drinks.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.DrinksSearch.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.EmployeeInfo.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Food.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.FoodSearch.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.loading.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Login_form.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Management_Page.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.POS.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Properties.Resources.resources
+F:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Management_page_duplicate.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Food_Duplicate.resources
+H:\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Drinks_Duplicate.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Drinks_Duplicate.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Food_Duplicate.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Project 1\Project\obj\Debug\Project.Management_page_duplicate.resources
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Software Development 2 All Projects of intake 34 section 1, Summer 2018\Restaurant Management System [ID- 05, 31, 91]\Project Source Code\Project\obj\Debug\Project.csprojAssemblyReference.cache
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Software Development 2 All Projects of intake 34 section 1, Summer 2018\Restaurant Management System [ID- 05, 31, 91]\Project Source Code\Project\obj\Debug\Project.exe
+F:\Shanto\6. Sixth Semester\CSE 200 [ Software Development II ]\Software Development 2 All Projects of intake 34 section 1, Summer 2018\Restaurant Management System [ID- 05, 31, 91]\Project Source Code\Project\obj\Debug\Project.pdb
